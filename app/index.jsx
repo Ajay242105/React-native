@@ -7,7 +7,7 @@ export default function App() {
     <View className="flex-1 justify-center items-center ">
         <Text className='text-3xl font-bold'>Hello world!</Text>
         <Button title="Press Me" className="mt-8" />
-      <Link href="/profile" style={{color:'blue'}}>go to profile</Link>
+      <Link href="/home" style={{color:'blue'}}>go to home</Link>
     </View>
   )
 }
